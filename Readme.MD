@@ -20,8 +20,8 @@ O projeto é dividido em várias tarefas principais:
 
 ### Tarefa 1: Coleta de Dados
 
--   Objetivo: Coletar dados históricos do mercado de ações da B3.
--   Abordagem: Utilizar técnicas de raspagem de dados para obter informações de fontes como Yahoo Finance.
+-   Objetivo: Coletar dados históricos do mercado de ações.
+-   Abordagem: Utilizar coleta de dados para obter informações (cotação, dividend yield, p/vp) de fontes como Yahoo Finance.
 -   Implementação: O script utiliza a biblioteca `yfinance` para buscar dados históricos de ações para uma lista de tickers fornecida.
 
 ### Tarefa 2: Limpeza de Dados
